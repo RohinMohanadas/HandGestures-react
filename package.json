@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@mediapipe/hands": "^0.4.1646424915",
+    "@tensorflow/tfjs": "^3.20.0",
     "react": "18.1.0",
     "react-native": "0.70.1"
   },
